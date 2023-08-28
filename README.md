@@ -18,7 +18,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Software Engineer at EV Solftware Solutions Pvt. Ltd.
+  - 📚 Software Engineer at EV Software Solutions Pvt. Ltd.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**.
