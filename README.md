@@ -18,7 +18,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
+  - 📚 Software Engineer at EV Solftware Solutions Pvt. Ltd.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**.
