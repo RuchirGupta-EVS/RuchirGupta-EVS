@@ -88,9 +88,6 @@
   <a href="https://github.com/RuchirGupta-EVS">
     <img width=450 height=170 align="center" alt="RuchirGupta-EVS" src="http://github-readme-streak-stats.herokuapp.com?user=RuchirGupta-EVS&theme=dark&background=000000" />
   </a>
-  <a href="https://github.com/RuchirGupta-EVS">
-    <img align="center" alt="RuchirGupta-EVS" src="http://github-readme-streak-stats.herokuapp.com?user=RuchirGupta-EVS&theme=dark&background=000000" />
-  </a>
 </div>
 
 <div>
@@ -107,12 +104,5 @@
 
 
 ------
-<div>
-  
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuchirGupta-EVS&theme=dark&background=000000)](https://github.com/RuchirGupta-EVS)
-  
-</div>
 
 Credits: [RuchirGupta-EVS](https://github.com/RuchirGupta-EVS)
