@@ -21,7 +21,7 @@
   - 📚 Information System student at UFPI.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**.
 
   - 💬 Ask me about **any technology**.
 
