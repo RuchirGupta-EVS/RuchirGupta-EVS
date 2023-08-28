@@ -86,10 +86,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/RuchirGupta-EVS">
-    <img width=450 height=170 align="center" alt="RuchirGupta-EVS" src="https://github-readme-stats.vercel.app/api?username=RuchirGupta-EVS&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="RuchirGupta-EVS" src="http://github-readme-streak-stats.herokuapp.com?user=RuchirGupta-EVS&theme=dark&background=000000" />
   </a>
   <a href="https://github.com/RuchirGupta-EVS">
-    <img align="center" alt="RuchirGupta-EVS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchirGupta-EVS&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="RuchirGupta-EVS" src="http://github-readme-streak-stats.herokuapp.com?user=RuchirGupta-EVS&theme=dark&background=000000" />
   </a>
 </div>
 
