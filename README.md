@@ -5,11 +5,6 @@
 
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/RuchirGupta-EVS/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RuchirGupta-EVS&color=blueviolet" alt="Profile views" />
   &nbsp;
@@ -106,13 +101,6 @@
 
 </div>
 
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/RuchirGupta-EVS/RuchirGupta-EVS/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
 <!-- ## 📚 &nbsp;My Projects -->
 
 
@@ -125,4 +113,4 @@
   
 </div>
 
-Credits: [Pepyn0](https://github.com/RuchirGupta-EVS)
+Credits: [RuchirGupta-EVS](https://github.com/RuchirGupta-EVS)
