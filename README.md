@@ -23,6 +23,8 @@
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**.
 
+  - 📚 Currently working on **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **PostgreSQL**, **AWS**, **ExpressJS**
+
   - 💬 Ask me about **any technology**.
 
   - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
